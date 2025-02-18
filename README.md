@@ -15,6 +15,7 @@
   - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [Video Demo](#video-demo)
 - [Download](#download)
 - [Contributing](#contributing)
 - [License](#license)
@@ -22,7 +23,7 @@
 
 ## 🌟 About the Project
 
-What's App Automation is a Python-based project aimed at automating various tasks on WhatsApp. This project provides a set of scripts that can help users automate messaging, status updates, and more. Imagine sending your morning greetings or status updates without lifting a finger! 🤖
+What's App Automation is a Python-based project aimed at automating various tasks on WhatsApp. This project provides a set of scripts that can help users automate messaging, status updates, and more.
 
 ## 🚀 Getting Started
 
@@ -60,11 +61,17 @@ To get a local copy up and running follow these simple steps.
 
 ![Automation Preview](https://via.placeholder.com/800x400.png?text=Automation+Preview)
 
+## 🎥 Video Demo
+
+Here is a video demo of the project in action:
+
+![Video Demo](demo.mp4)
+
 ## 📥 Download
 
 You can download the latest version of the What's App Automation software from the links below:
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-Click%20Here-brightgreen)](https://github.com/AnubhavChaturvedi-GitHub/What-s-App-Automation/raw/main/dist/whatsapp_automation.exe)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-Click%20Here-brightgreen)](https://github.com/AnubhavChaturvedi-GitHub/What-s-App-Automation/raw/main/dist/whatsapp_automation_windows.zip)
 
 ## 🤝 Contributing
 
@@ -89,4 +96,3 @@ Anubhav Chaturvedi - [GitHub Profile](https://github.com/AnubhavChaturvedi-GitHu
 ---
 
 Made with ❤️ by [Anubhav Chaturvedi](https://github.com/AnubhavChaturvedi-GitHub)
-```` ▋
