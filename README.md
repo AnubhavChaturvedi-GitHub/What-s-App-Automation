@@ -65,7 +65,7 @@ To get a local copy up and running follow these simple steps.
 
 Here is a video demo of the project in action:
 
-![Video Demo](demo.mp4)
+![Video Demo]([demo.mp4](https://github.com/AnubhavChaturvedi-GitHub/What-s-App-Automation/blob/main/2025-02-18%2012-57-26.mp4))
 
 ## 📥 Download
 
