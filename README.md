@@ -57,9 +57,6 @@ To get a local copy up and running follow these simple steps.
    python your_script.py
    ```
 
-## 📸 Screenshots
-
-![Automation Preview](https://via.placeholder.com/800x400.png?text=Automation+Preview)
 
 ## 🎥 Video Demo
 
